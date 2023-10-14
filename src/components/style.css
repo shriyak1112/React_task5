@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(235, 219, 250);
+}
+.button_div .button-65{
+    width: 150px;
+    height: 38px;
+    background-color: rgb(6, 131, 249);
+    border-radius: 8px;
+    color: aliceblue;
+    font-size: 15px;
+    border: none;
+
+}
+
+.Container{
+  
+    margin: 100px ;
+    text-align: center;
+    
+
+}
+.Container-middle .date{
+    padding: 12px;
+    margin-bottom: 20px;
+   
+}
